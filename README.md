@@ -1,2 +1,3 @@
-# -AI-Translation
-Real-world use cases and prompt examples for better AI translatioin
+# AI-Translation
+We are collecting real-world examples of ChatGPT usage and prompts to determine best practices for technical writing and translation. 
+Submit your documents to contribute to our research.(*^_^*)
